@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Oqtane.Server\\Oqtane.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Oqtane.Server\\Oqtane.Server.csproj": {
+      "version": "3.4.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Oqtane.Server\\Oqtane.Server.csproj",
+        "projectName": "Oqtane.Server",
+        "projectPath": "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Oqtane.Server\\Oqtane.Server.csproj",
+        "packagesPath": "C:\\Users\\SunnyWan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Oqtane.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SunnyWan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Oqtane.Client\\Oqtane.Client.csproj": {
+                "projectPath": "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Oqtane.Client\\Oqtane.Client.csproj"
+              },
+              "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Oqtane.Shared\\Oqtane.Shared.csproj": {
+                "projectPath": "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Oqtane.Shared\\Oqtane.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Localization": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

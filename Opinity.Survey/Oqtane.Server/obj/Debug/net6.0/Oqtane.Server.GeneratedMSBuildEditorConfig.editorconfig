@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Oqtane
+build_property.RootNamespace = Oqtane
+build_property.ProjectDir = C:\Users\SunnyWan\Downloads\survey4\Opinity.Survey\Oqtane.Server\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SunnyWan\Downloads\survey4\Opinity.Survey\Oqtane.Server
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SunnyWan/Downloads/survey4/Opinity.Survey/Oqtane.Server/Pages/External.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXh0ZXJuYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SunnyWan/Downloads/survey4/Opinity.Survey/Oqtane.Server/Pages/Files.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SunnyWan/Downloads/survey4/Opinity.Survey/Oqtane.Server/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SunnyWan/Downloads/survey4/Opinity.Survey/Oqtane.Server/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SunnyWan/Downloads/survey4/Opinity.Survey/Oqtane.Server/Pages/Sitemap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2l0ZW1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SunnyWan/Downloads/survey4/Opinity.Survey/Oqtane.Server/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

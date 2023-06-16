@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6e9frIxmRypkjMunhpYVHiJOoxIkEWVoqtRQX7Djo44bB6XMA7Ezwuvm5qnwIUPAM/ERT0h/IH8s15kWoviTlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SunnyWan\\Downloads\\survey4\\Opinity.Survey\\Shared\\Opinity.Survey.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SunnyWan\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Modules\\Opinity.Survey\\Module.css",
+      "PackagePath": "staticwebassets\\Modules\\Opinity.Survey\\Module.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Modules\\Opinity.Survey\\Module.js",
+      "PackagePath": "staticwebassets\\Modules\\Opinity.Survey\\Module.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Modules\\Oqtane.Modules.Admin.Login\\Module.css",
+      "PackagePath": "staticwebassets\\Modules\\Oqtane.Modules.Admin.Login\\Module.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Modules\\Oqtane.Modules.HtmlText\\Module.css",
+      "PackagePath": "staticwebassets\\Modules\\Oqtane.Modules.HtmlText\\Module.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Packages\\Oqtane.Database.MySQL.nupkg.bak",
+      "PackagePath": "staticwebassets\\Packages\\Oqtane.Database.MySQL.nupkg.bak"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Packages\\Oqtane.Database.PostgreSQL.nupkg.bak",
+      "PackagePath": "staticwebassets\\Packages\\Oqtane.Database.PostgreSQL.nupkg.bak"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Packages\\Oqtane.Database.SqlServer.nupkg.bak",
+      "PackagePath": "staticwebassets\\Packages\\Oqtane.Database.SqlServer.nupkg.bak"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Packages\\Oqtane.Database.Sqlite.nupkg.bak",
+      "PackagePath": "staticwebassets\\Packages\\Oqtane.Database.Sqlite.nupkg.bak"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Themes\\Oqtane.Themes.BlazorTheme\\Theme.css",
+      "PackagePath": "staticwebassets\\Themes\\Oqtane.Themes.BlazorTheme\\Theme.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\Themes\\Oqtane.Themes.OqtaneTheme\\Theme.css",
+      "PackagePath": "staticwebassets\\Themes\\Oqtane.Themes.OqtaneTheme\\Theme.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Placeholder.txt",
+      "PackagePath": "staticwebassets\\_content\\Placeholder.txt"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\Module.css",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\Module.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\Module.js",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\Module.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\Radzen.Blazor.js",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\Radzen.Blazor.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\css\\dark-base.css",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\css\\dark-base.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\css\\dark.css",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\css\\dark.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\css\\default-base.css",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\css\\default-base.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\css\\default.css",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\css\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\css\\humanistic-base.css",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\css\\humanistic-base.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\css\\humanistic.css",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\css\\humanistic.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\css\\software-base.css",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\css\\software-base.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\css\\software.css",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\css\\software.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Black.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-BlackIt.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-BlackIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Bold.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-BoldIt.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-BoldIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-ExtraLight.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-ExtraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-ExtraLightIt.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-ExtraLightIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-It.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-It.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Light.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-LightIt.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-LightIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Regular.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Semibold.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-Semibold.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-SemiboldIt.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\SourceSansPro-SemiboldIt.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\roboto-v15-latin-300.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\roboto-v15-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\roboto-v15-latin-700.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\roboto-v15-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\_content\\Radzen.Blazor\\fonts\\roboto-v15-latin-regular.woff",
+      "PackagePath": "staticwebassets\\_content\\Radzen.Blazor\\fonts\\roboto-v15-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\app_offline.bak",
+      "PackagePath": "staticwebassets\\app_offline.bak"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\empty.css",
+      "PackagePath": "staticwebassets\\css\\empty.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\css\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\css\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\quill\\quill1.3.7.bubble.css",
+      "PackagePath": "staticwebassets\\css\\quill\\quill1.3.7.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\css\\quill\\quill1.3.7.snow.css",
+      "PackagePath": "staticwebassets\\css\\quill\\quill1.3.7.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\icon.png",
+      "PackagePath": "staticwebassets\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\images\\checked.png",
+      "PackagePath": "staticwebassets\\images\\checked.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\images\\error.png",
+      "PackagePath": "staticwebassets\\images\\error.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\images\\help.png",
+      "PackagePath": "staticwebassets\\images\\help.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\images\\logo-black.png",
+      "PackagePath": "staticwebassets\\images\\logo-black.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\images\\null.png",
+      "PackagePath": "staticwebassets\\images\\null.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\images\\unchecked.png",
+      "PackagePath": "staticwebassets\\images\\unchecked.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\js\\interop.js",
+      "PackagePath": "staticwebassets\\js\\interop.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\js\\loadjs.min.js",
+      "PackagePath": "staticwebassets\\js\\loadjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\js\\quill-blot-formatter.min.js",
+      "PackagePath": "staticwebassets\\js\\quill-blot-formatter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\js\\quill-interop.js",
+      "PackagePath": "staticwebassets\\js\\quill-interop.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\js\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\js\\quill1.3.7.min.js",
+      "PackagePath": "staticwebassets\\js\\quill1.3.7.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\loading.gif",
+      "PackagePath": "staticwebassets\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\oqtane-black.png",
+      "PackagePath": "staticwebassets\\oqtane-black.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\oqtane-glow.png",
+      "PackagePath": "staticwebassets\\oqtane-glow.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\oqtane-white.png",
+      "PackagePath": "staticwebassets\\oqtane-white.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\oqtane.ico",
+      "PackagePath": "staticwebassets\\oqtane.ico"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\oqtane.png",
+      "PackagePath": "staticwebassets\\oqtane.png"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\resources.txt",
+      "PackagePath": "staticwebassets\\resources.txt"
+    },
+    {
+      "Id": "C:\\Users\\SunnyWan\\Downloads\\survey4\\oqtane.framework-3.4.3\\Oqtane.Server\\wwwroot\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Oqtane.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Oqtane.Server.props",
+      "PackagePath": "build\\Oqtane.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Oqtane.Server.props",
+      "PackagePath": "buildMultiTargeting\\Oqtane.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Oqtane.Server.props",
+      "PackagePath": "buildTransitive\\Oqtane.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

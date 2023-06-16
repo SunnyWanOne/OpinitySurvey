@@ -1,0 +1,56 @@
+[2023-06-16 09:16:08+00:00] [Error] An unhandled exception has occurred while executing the request.    at Oqtane.UI.SiteRouter.ProcessModules(Page page, List`1 modules, Int32 moduleid, String action, String defaultcontainertype) in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Client\UI\SiteRouter.razor:line 437
+   at Oqtane.UI.SiteRouter.Refresh() in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Client\UI\SiteRouter.razor:line 216
+   at Oqtane.UI.SiteRouter.OnParametersSetAsync() in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Client\UI\SiteRouter.razor:line 71
+   at Microsoft.AspNetCore.Components.ComponentBase.CallStateHasChangedOnAsyncCompletion(Task task)
+   at Microsoft.AspNetCore.Components.ComponentBase.RunInitAndSetParametersAsync()
+   at Microsoft.AspNetCore.Components.RenderTree.Renderer.GetErrorHandledTask(Task taskToHandle, ComponentState owningComponentState)
+   at Microsoft.AspNetCore.Components.Rendering.HtmlRenderer.HandleException(Exception exception)
+   at Microsoft.AspNetCore.Components.RenderTree.Renderer.HandleExceptionViaErrorBoundary(Exception error, ComponentState errorSourceOrNull)
+   at Microsoft.AspNetCore.Components.RenderTree.Renderer.GetErrorHandledTask(Task taskToHandle, ComponentState owningComponentState)
+   at Microsoft.AspNetCore.Components.RenderTree.Renderer.<WaitForQuiescence>g__ProcessAsynchronousWork|43_0()
+   at Microsoft.AspNetCore.Components.RenderTree.Renderer.WaitForQuiescence()
+   at Microsoft.AspNetCore.Components.RenderTree.Renderer.RenderRootComponentAsync(Int32 componentId, ParameterView initialParameters)
+   at Microsoft.AspNetCore.Components.Rendering.HtmlRenderer.CreateInitialRenderAsync(Type componentType, ParameterView initialParameters)
+   at Microsoft.AspNetCore.Components.Rendering.HtmlRenderer.RenderComponentAsync(Type componentType, ParameterView initialParameters)
+   at Microsoft.AspNetCore.Components.Rendering.RendererSynchronizationContext.<>c__11`1.<<InvokeAsync>b__11_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.StaticComponentRenderer.PrerenderComponentAsync(ParameterView parameters, HttpContext httpContext, Type componentType)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ComponentRenderer.PrerenderedServerComponentAsync(HttpContext context, ServerComponentInvocationSequence invocationId, Type type, ParameterView parametersCollection)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ComponentRenderer.RenderComponentAsync(ViewContext viewContext, Type componentType, RenderMode renderMode, Object parameters)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at Oqtane.Pages.Pages__Host.<ExecuteAsync>b__14_1() in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Server\Pages\_Host.cshtml:line 31
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at Oqtane.Pages.Pages__Host.ExecuteAsync() in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Server\Pages\_Host.cshtml:line 6
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultFilters>g__Awaited|28_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Oqtane.Infrastructure.JwtMiddleware.Invoke(HttpContext context) in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Server\Infrastructure\Middleware\JwtMiddleware.cs:line 64
+   at Oqtane.Infrastructure.TenantMiddleware.Invoke(HttpContext context) in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Server\Infrastructure\Middleware\TenantMiddleware.cs:line 58
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[2023-06-16 09:16:21+00:00] [Error] Unhandled exception in circuit '3ZF-8pGz2gRJtcFeEM3Xj3Vtq4udEUsxKaU4kHK72XE'.    at Oqtane.UI.SiteRouter.ProcessModules(Page page, List`1 modules, Int32 moduleid, String action, String defaultcontainertype) in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Client\UI\SiteRouter.razor:line 437
+   at Oqtane.UI.SiteRouter.Refresh() in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Client\UI\SiteRouter.razor:line 216
+   at Oqtane.UI.SiteRouter.LocationChanged(Object sender, LocationChangedEventArgs args) in C:\Users\SunnyWan\Downloads\survey4\oqtane.framework-3.4.3\Oqtane.Client\UI\SiteRouter.razor:line 283
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   at Microsoft.AspNetCore.Components.Rendering.RendererSynchronizationContext.ExecuteSynchronously(TaskCompletionSource`1 completion, SendOrPostCallback d, Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Components.Rendering.RendererSynchronizationContext.ExecuteBackground(WorkItem item)
